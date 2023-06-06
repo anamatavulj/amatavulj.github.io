@@ -700,6 +700,7 @@
     font-weight: 100;
     margin-top: -20px;
     margin-right: -10px;
+    position: sticky;
   }
 
   .websitecredits h6 {
